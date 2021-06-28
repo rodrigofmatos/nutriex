@@ -1,0 +1,285 @@
+import pymsgbox
+import random
+from pywinauto.keyboard import send_keys
+from pywinauto.mouse import scroll
+from pytz import timezone
+import smtplib
+import re
+from email.mime.text import MIMEText
+from email.mime.multipart import MIMEMultipart
+from email.mime.base import MIMEBase
+from email import encoders
+import ntpath
+import logging
+import datetime
+import numpy as np
+import imutils
+import cv2
+import subprocess
+import pyautogui
+import pyperclip
+import time
+import pandas as pd
+import os
+import signal
+import sys
+from io import StringIO
+
+dpzfile = r'z:\ldbot\db\cpativa.dpz'
+dpzvalue = open(dpzfile, 'r').readline()[:-1]
+dpzlote = r'z:\ldbot\db\cplotes.dpz'
+dpzvalote = open(dpzlote, 'r').readlines()
+
+# ==================== BLOCO 000 ====================#
+# --- tela inicial de configuracao da resolucao do monitor para correto funcionamento da aplicacao ---#
+pyautogui.FAILSAFE = False  # impede o mouse de provocar um erro de seguranca e abortar a operacao em qq parte do script
+pidfile = r'z:\ldbot\pid\disparazap.pid'
+pid = str(os.getpid())
+open(pidfile, 'w').write(pid) ### grava o numero do processo PID do disparazap para encerra-lo ao final de tudo
+
+maquina = int(dpzvalue)
+
+logtime0 = datetime.datetime.now()  # --- inicio de todo o processo
+
+# --- carrega o banco de dados de contatos telefonicos para a memoria ---#
+db = r'z:\ldbot\db\CP' + str(dpzvalue) + 'tit.xlsx'
+
+tit = pd.read_excel(db, sheet_name='titTemp', index=False)
+titulo = str(tit['ID']) + '_' + str(tit['VM']) + '_' + str(tit['CLIENTE']) + '_' + str(tit['CAMPANHA'])
+
+# --- carrega o banco de dados de mensagens para a memoria ---#
+db3 = r'z:\ldbot\db\CP' + str(dpzvalue) + 'msg.xlsx'
+msg = pd.read_excel(db3, sheet_name='msgTemp', index=False)
+anuncio = msg['MENSAGEM']
+
+emailTo = ['ramonunix@bsd.com.br']
+emailCc = ['rmatos.tec@gmail.com']
+#maincontact = 'dispara zap' #'6285194924'
+maincontact = '6291085505'
+
+for lote in dpzvalote:
+    ###-- carrega o banco de dados de celulares --###
+    db2 = r'z:\ldbot\db\CP' + str(dpzvalue) + 'LT' + lote[:-1] + '.xlsx'
+    cel = pd.read_excel(db2, sheet_name='CP' + str(dpzvalue) + 'LT' + lote[:-1], index=False)
+    celular = cel['FONE_MESCLADO']
+    id1 = cel['ID']
+    idtit = cel['IDTIT']
+    controlid = cel['CONTROLID']
+    dthr = cel['DTHR']
+    env = cel['ENVIADO']
+
+    ###-- carrega a tabela CEL para dentro do arquivo LIST.CSV --###
+    chipfile = r'z:\ldbot\db\list.csv'
+    open(chipfile, 'w').write('FONE_MESCLADO,ID,IDTIT,CONTROLID,DTHR,ENVIADO\n')
+    varold = 0 ###-- armazena a quantidade de celulares enviados
+    varnew = 0 ###-- armazena a quantidade de celulares novos e ainda nao enviados
+
+    for i in celular.index:
+        if str(env[i]).upper() == 'Y':
+            enviado = 'Y'
+            data = str(dthr[i])
+            varold = varold + 1
+        else:
+            enviado = 'N'
+            data = str(datetime.datetime.now())
+            varnew = varnew + 1
+        open(chipfile, 'a').write(str(celular[i]) + ',' + str(id1[i]) + ',' + str(idtit[i]) + ',' + str(controlid[i]) + ',' + data + ',' + enviado + '\n')
+
+    if varold == len(celular):
+        pidbanfile = r'z:\ldbot\pid\ban.pid'
+        pidban = int(open(pidbanfile, 'r').read())    
+        try:
+            os.kill(pidban, signal.SIGTERM)
+        except OSError:
+            pymsgbox.alert('PCD BANIMENTO JA ESTAVA ENCERRADO!',timeout=2000)
+
+        print('Assistente PCD Banimento encerrado!')
+        pymsgbox.alert('VOCE ENVIOU TODOS OS SEUS ' + str(varold) + ' CONTATOS!!!',timeout=2000)
+
+        break
+    # else:
+        # pymsgbox.alert('SUA LISTA AINDA TEM ' + str(varnew) + ' CONTATO(S) PARA ENVIO.',timeout=2000)
+            
+
+    ###-- converte a tabela CEL em CEL.xlsx com os dados da chipcel --###
+    convert = pd.read_csv (chipfile)
+    convert.to_excel (db2, sheet_name='CP' + str(dpzvalue) + 'LT' + lote[:-1], engine='xlsxwriter', index = None, header=True)
+
+    time.sleep(1)
+
+    # --- elimina caracteres especiais do nome do arquivo antes de cria-lo  ---#
+    tit = re.sub("[ç]", "c", str(titulo[int(maquina) - 1]))
+    tit = re.sub("[ãáâ]", "a", str(titulo[int(maquina) - 1]))
+    tit = re.sub("[êé]", "e", str(titulo[int(maquina) - 1]))
+    tit = re.sub("[óôõ]", "o", str(titulo[int(maquina) - 1]))
+    tit = re.sub("[í]", "i", str(titulo[int(maquina) - 1]))
+    tit = re.sub("[ú]", "u", str(titulo[int(maquina) - 1]))
+    tit = re.sub(r'[^a-zA-Z0-9_]', r'', str(titulo[int(maquina) - 1]))
+
+    # --- ativa o arquivo de log para gravacao dos eventos e extracao do relatorio ao final da transmissao ---#
+    now = datetime.datetime.now()
+    now_str = now.strftime("%Y%m%d-%Hh%Mm")
+    logging.basicConfig(filename=r'z:\ldbot\log\{}-{}.log'.format(now_str, tit), filemode='a', format='%(asctime)s;%(name)s;%(levelname)s;%(message)s', datefmt='%d/%m/%Y;%H:%M:%S',level=logging.INFO)
+    logger = logging.getLogger('disparazap')
+    logging.info(str(maquina) + ';' + titulo[int(maquina) - 1] + ';' + 'B000|DISPARAZAP;' + str(len(celular)) + ';' + str(maincontact))  # <<<<<<<<<<<< log >>>>>>>>>>>>>
+
+    tempoespera = 3  ### tempo de espera da variavel sleep definido em segundos
+    bloco = 0  # variavel que define a varredura de todos os celulares que serao utilizados ate igualar a variavel repeticao
+    a = 0  # variavel que determina o numero do anuncio que esta em vigor
+    repeticao = len(celular) ### usa o total de celulares cadastrados no Excel para fazer o loop entre dos envios
+    intervalo = 5 ### intervalo padrao do bloco (de 5 em 5)
+    limitek = intervalo ### limite determinado pelo intervalo ou fracao dele, caso a quantidade de celulares nao seja multipla de 5
+    saldo = (int(repeticao / intervalo) * intervalo) ### usado para determinar o multiplo inteiro mais proximo do total de celulares
+
+    logtime1 = datetime.datetime.now()  # --- fim do setup e carregamento do ldplayer
+
+    logging.info(str(maquina) + ';' + titulo[int(maquina) - 1] + ';' + 'M003|CONTATO_MATRIZ;' + str(maincontact))  # <<<<<<<<<<<< log >>>>>>>>>>>>>
+
+
+    # time.sleep(1)
+    # img = cv2.imread(u'z:\\ldbot\\pix\\banpix1.png')
+    # cv2.imshow('',img)
+    # cv2.moveWindow('',int(1366/4),int(768/4))
+    # cv2.waitKey(2222)
+
+    # ==================== BLOCO 001 ====================#
+    # --- inicio da repeticao em massa --- #
+    while bloco < repeticao: ### inicia o envio em massa, uma vez enviado primeiro lote com 5 contatos
+     
+        k = 0
+        if bloco == saldo: ### quando ele detecta que o contato ativo se igualou ao maximo multiplo, limitek passa a ter o valor como o resto da operacao (1, 2, 3 ou 4)
+            limitek = repeticao % intervalo
+            
+        while k < limitek: #--- bloco de repeticao de 5 em 5 ou ate que o limitek seja atingido (nao necessariamente multiplo de 5)
+
+            for i in celular.index:
+                i = i + k
+                if env[i] == 'N':
+                    enviado = 'N'
+                    data = str(datetime.datetime.now())
+                    chipold = str(celular[i]) + ',' + str(id1[i]) + ',' + str(idtit[i]) + ',' + str(controlid[i]) + ',' + str(dthr[i]) + ',' + str(env[i]) + '\n'
+                    chipnew = str(celular[i]) + ',' + str(id1[i]) + ',' + str(idtit[i]) + ',' + str(controlid[i]) + ',' + data + ',Y\n'
+                    celnew = str(celular[i])
+                    print('celular: ' + str(celular[i]) + ' | id: ' + str(id1[i]) + ' | idtit: ' + str(idtit[i]) + ' | controle: ' + str(controlid[i]) + ' | data: ' + data + ' | enviado?: Y')
+                    open(chipfile, 'a').write(chipnew)
+                    break
+                else:
+                    chipold = str(celular[i]) + ',' + str(id1[i]) + ',' + str(idtit[i]) + ',' + str(controlid[i]) + ',' + str(dthr[i]) + ',' + str(env[i]) + '\n'
+                    chipnew = str(celular[i]) + ',' + str(id1[i]) + ',' + str(idtit[i]) + ',' + str(controlid[i]) + ',' + str(dthr[i]) + ',' + str(env[i]) + '\n'
+                    print('celular: ' + str(celular[i]) + ' | id: ' + str(id1[i]) + ' | idtit: ' + str(idtit[i]) + ' | controle: ' + str(controlid[i]) + ' | data: ' + data + ' | enviado?: ' + str(env[i]))
+                    open(chipfile, 'a').write(chipold)
+
+            ###-- detecta o fim da lista de numeros
+            if chipold == chipnew:
+                pymsgbox.alert('SUA LISTA DE ENVIO CHEGOU AO FIM, PARABENS!',timeout=1500)
+                break
+
+            k = k + 1
+            bloco = bloco + 1
+            # logging.info(str(maquina) + ';' + titulo[int(maquina)-1] + ';' + 'B008|ENVIO_' + str(bloco) + ';' + str(celnew)) #<<<<<<<<<<<< log >>>>>>>>>>>>>
+
+        ###-- converte a tabela CEL em CEL.xlsx com os dados da chipcel --###
+        convert = pd.read_csv (chipfile)
+        convert.to_excel (db2, sheet_name='CP' + str(dpzvalue) + 'LT' + lote[:-1], engine='xlsxwriter', index = None, header=True)
+
+        sys.exit(0)
+        if a < len(anuncio)-1: ### define o numero do anuncio que sera enviado (um diferente por bloco)
+            a = a + 1
+        else:
+            a = 0
+        
+        if (bloco % (intervalo * 8)) == 0: ###--- esvaziamento de cache a cada 40 contatos
+            # subprocess.Popen(['ipconfig', '/flushdns'])  ### limpa o cache DNS
+            # subprocess.Popen([r'C:\Program Files\CCleaner\CCleaner64.exe', '/auto'])  ### executa o ccleaner para limpeza geral
+            pymsgbox.alert('EXECUTANDO LIMPEZA GERAL. FLUSH DNS E CCLEANER...',timeout=1500)  ### avisa sobre a limpeza geral periodica
+            
+        if (bloco % (intervalo * 12)) == 0: ###--- limpeza de cache e DNS a cada 60 contatos
+            pymsgbox.alert('CACHE DO ZAP ESVAZIADO!!!',timeout=1500)  ### avisa que o cache do zap fora esvaziado com sucesso
+            time.sleep(1)
+        
+    # ==================== BLOCO 010 ====================#
+    if (bloco % intervalo) == 1: ### valida o caso de o envio ser para apenas um contato no caso o total de contatos nao ser multiplo de 5 com resto 1
+        # pyautogui.click(x=65, y=75)
+        time.sleep(1)
+        #--- snapshot do processo ---#
+        pic = pyautogui.getActiveWindow()
+        f1 = datetime.datetime.now().strftime("%Y%m%d_%Hh%Mm%Ss")
+        file = u'z:\\ldbot\\rep\\' + f1 + '_' + str(titulo[int(maquina) - 1]) + '.png'
+        image = np.array(pyautogui.screenshot())
+        time.sleep(1)
+        image = imutils.resize(image, width=700) ### reduz a imagem para economizar espaco
+        cv2.imwrite(file, image, [int(cv2.IMWRITE_PNG_COMPRESSION), 8]) ### comprime a imagem para reduzir ainda mais o espaco
+        pymsgbox.alert('O PROGRAMA SERA ENCERRADO PORQUE CHEGOU AO FIM!',timeout=3000)
+        #################### ENCERRA O SCRIPT E AS APLICACOES OS RESPECTIVOS PCDs ############################
+        pidbanfile = r'z:\ldbot\pid\ban.pid'
+        pidban = int(open(pidbanfile, 'r').read())    
+        try:
+            os.kill(pidban, signal.SIGTERM)
+        except OSError:
+            pymsgbox.alert('PCD BANIMENTO JA ESTAVA ENCERRADO!',timeout=2000)
+
+        print('Assistente PCD Banimento encerrado!')
+        logging.info(str(pidban) + ';FIM SCRIPT - SEM BANIMENTO;' + 'B000|BAN;') #<<<<<<<<<<<< log >>>>>>>>>>>>>
+        # pyautogui.press('esc')
+        pymsgbox.alert('Programa encerrado! E-mail enviado, log gerado e fotos tiradas...',timeout=4000)  ### encerra o envio das mensagens da campanha ativa
+        break
+        
+    logging.info(str(maquina) + ';' + titulo[int(maquina) - 1] + ';' + 'B010|FIM_ROTINA;' + str(bloco) + ';' + str(maincontact))  # <<<<<<<<<<<< log >>>>>>>>>>>>>
+    logtime4 = datetime.datetime.now()  # --- fim da execucao do programa e de todas as entregas programadas
+
+    #--- envio do email finalizando as entregas mais o arquivo de log de toda a operacao ---#
+    arquivo = r'z:\ldbot\log\{}-{}.log'.format(now_str, tit)
+    tempo = datetime.datetime.now(timezone('America/Fortaleza')).strftime('%d/%m/%Y %H:%M:%S')
+
+    email = 'rmatos.tec@gmail.com'
+    send_to_email = emailCc #################
+    cc = emailCc ############################
+    subject = 'DISPARAZAP: Maquina #' + str(maquina) + ' | ' + str(tempo)
+    message = 'Segue o relatorio emitido pelo robo DISPARAZAP\r\ncom detalhes da MAQUINA #' + str(
+        maquina) + '.\r\n\r\n    >> ' + str(titulo[int(maquina) - 1]) + '\r\n    >> MENSAGENS PROGRAMADAS: ' + str(
+        len(celular)) + '\r\n    >> MENSAGENS ENVIADAS: ' + str(bloco) + '\r\n    >> RENDIMENTO: ' + (
+                "{:.0%}".format((bloco) / len(celular))) + '\r\n\r\nAtt., Equipe Disparazap 2020.'
+    password = 'juizdefora2@'
+
+    msg = MIMEMultipart()
+
+    msg['Subject'] = subject
+    msg['From'] = u'Robo Disparazap <rmatos.tec@gmail.com>'
+    msg['To'] = ', '.join(send_to_email)
+    msg['Cc'] = ', '.join(cc)
+
+    body = message
+
+    msg.attach(MIMEText(body, 'plain'))
+
+    filename = ntpath.basename(arquivo)
+    attachment = open(arquivo, "rb")
+
+    part = MIMEBase('application', 'octet-stream')
+    part.set_payload((attachment).read())
+    encoders.encode_base64(part)
+    part.add_header('Content-Disposition', "attachment; filename= %s" % filename)
+
+    msg.attach(part)
+
+    server = smtplib.SMTP('smtp.gmail.com', 587)
+    server.starttls()
+    server.login(email, password)
+    text = msg.as_string()
+    server.sendmail(email, send_to_email + cc, text)
+    server.quit()
+
+#################### ENCERRA O SCRIPT E AS APLICACOES OS RESPECTIVOS PCDs ############################
+pidbanfile = r'z:\ldbot\pid\ban.pid'
+pidban = int(open(pidbanfile, 'r').read())    
+try:
+    os.kill(pidban, signal.SIGTERM)
+except OSError:
+    pymsgbox.alert('PCD BANIMENTO JA ESTAVA ENCERRADO!',timeout=2000)
+
+print('Assistente PCD Banimento encerrado!')
+logging.info(str(pidban) + ';FIM SCRIPT - SEM BANIMENTO;' + 'B000|BAN;') #<<<<<<<<<<<< log >>>>>>>>>>>>>
+
+# pyautogui.press('esc')
+pymsgbox.alert('Programa encerrado! E-mail enviado, log gerado e fotos tiradas...',timeout=4000)  ### encerra o envio das mensagens da campanha ativa
+sys.exit(0)
