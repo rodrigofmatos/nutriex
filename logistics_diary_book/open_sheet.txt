@@ -1,0 +1,15 @@
+import gspread
+from oauth2client.service_account import ServiceAccountCredentials
+
+
+scope =['https://spreadsheets.google.com/feeds']
+credentials = ServiceAccountCredentials.from_json_keyfile_name('xxx.json',scope)
+gc = gspread.authorize(credentials)
+
+spreadsheet = gc.open("POC")
+wks = spreadsheet.worksheet('test1')
+wks2 = spreadsheet.worksheet('test2')
+out = list()
+out = wks.col_values(1)
+for temp in out:
+    print(out)

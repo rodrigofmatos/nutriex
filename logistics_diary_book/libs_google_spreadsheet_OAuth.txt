@@ -1,0 +1,5 @@
+Essencial Python Libs:
+
+pip install --upgrade oauth2client
+pip install PyOpenSSL
+pip install gspread

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "nutriex",
+  "private_key_id": "54f72803516b3cb4cd120811915dd7a819608da5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCYj1+1iACpsWYV\nQAdHlB37A4JING5rnKC+/hbRELXdhubtr4ajBY0zD9WfbHjAG6NcFjTUH4CXW7KF\n1Gl79bOfwWMNSXWpJOJIOS5KoIbH4oqtFAE/SoS2XRrMVFGrSHLCeFWES2D4L8uG\nkaHnuTm2HzL5VhOPchog/jA2jUy2tGzIf14pMFEQ4uZo9NVNm/zCqLXFeH798apb\n7IpjO62DSGuQ4fyYTRZ6JWCBIwsGwoNqyj+60KYiSDvquTTCAs2kO+PGPAh/gJuU\nFm1Kslb/W9RCyx0DT9q137JTCczZix3XGOEBMuZml9sllmdaA+RgD2EyYse0gbvq\n1Yuc8G5bAgMBAAECggEAFsH/L1pGwbRH8SWTBcIk/XFBjw8wkExWIlz5qbL0yO4Q\nfCZx+YGg1ZwoFtcckDPPQ7PAVQsPU1oyIGABDaUnvXjLaOEAyfxJkSfj2EK9YwtP\n+o+rEUucI9lxtPINw3T+7DRSistKf4YfC0ellPv+4u8hMIFUUP1ew8syBVaWD1mn\nOSrLCZIabHVeGK7l7IgcFmwxntdBsNS7eu+ekHRC/bkE8c5V1pW/8sZHYC+X8Tvn\n8IoGlKQGgqWONbp6WkLOk03EXKxswWZr/fFXLtjiGuNXiJXTdeLlUAznr8OMYmvO\nvRzDxz0IVGEQp8zHyEkZqyNsHcNVy6TWbyWaBzuacQKBgQDJbRec9THoEL8sjKqQ\nGUxlWL4NbtNVHYzC6AzMoUiP5WWEWCT2aEM2O/DgYB/od1XDiFMgM+Ebh1aiL+0X\n0A5oXbckIIVekJ72zbQQZYj2FAq0OwxFYBQKsksF6Ij3fhKImfP7XZMA0clGEIIT\nn/SuphjpwNf41hAHoCvEqx65qQKBgQDB5O6dRonOMYo6e7eqvb3BgaIsqZ0F+352\nQHpEb/m/GHYVjrLbIbnNuYZljArtHqobVu5yvIoV3E9rOaYiCmzlzzLo3pgsJET2\n5HZ/EkBsWdOEz+h+a/sy0p3WLqC9vRYTs0ocGLkkc3iR+EOEEFglnbBGBrpLVrmA\n3QXVKvLSYwKBgFxJgncklIAaJC06Ke+p16nblgA7ldI6nsKyZSLghol/dhrD8/N9\n48WWgw+amyP8gSv8avGnM21UfeoDgWLWrbM9tOp1iAXCx0KXDvgwPSdaGWloYH/s\nvGIGPH9xgke62K0DtJinz/GhLNHQQHjTYd0fNuzqsUlOcru7tDIAoSw5AoGAKxsk\nWV7XQDoPSxU6LgFk8GJLlbZXrH7PDKclB5YFZhCgIAbLiKAk2LHISUcrHrBUjSN0\ne5mi8V07YtE8OBEtSKIZ5V+nYRjnJCSCm5mJLQ2DUuGOBJ0pCZF9eaKAJe6lu9d+\nQGTWtF3fjkQtbmzby/EUwVy5igpLz3RT2aJkvZUCgYBQgxQDiMja0Iw+g3pFCvtT\nczrmvkjdiH0vqyBoFNLfPYzZ5laxU18RccJIEzOVA7gylINShnqaICUbZBy9Jh1R\ny9s9HpF21Irqxz4/a2Pcv9KNKxwQb09bWJVHoJoFaCgMDUo/Wge9cwgk6xVN5Q0G\npiqkNEljDU63YEugkhOhGA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "conector@nutriex.iam.gserviceaccount.com",
+  "client_id": "107401724759671679584",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/conector%40nutriex.iam.gserviceaccount.com"
+}
