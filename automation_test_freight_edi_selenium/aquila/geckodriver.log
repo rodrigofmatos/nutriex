@@ -1,0 +1,1529 @@
+1531912547130	geckodriver	INFO	geckodriver 0.21.0
+1531912547130	geckodriver	INFO	Listening on 127.0.0.1:59914
+1531912550190	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BULKLE~1\\AppData\\Local\\Temp\\rust_mozprofile.VF4EdSsKxOdt"
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+1531912552256	Marionette	INFO	Listening on port 59927
+1531912552328	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+[Child 7612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, [lCihild 8628, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346n
+e 346
+[Child[Ch ild 761[Parent 12748, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 169
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531912613294	geckodriver	INFO	geckodriver 0.21.0
+1531912613294	geckodriver	INFO	Listening on 127.0.0.1:60078
+1531912616354	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BULKLE~1\\AppData\\Local\\Temp\\rust_mozprofile.VMoZMCY2YriA"
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+1531912618296	Marionette	INFO	Listening on port 60090
+1531912618501	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+[Parent 7136, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common1531912788263	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BULKLE~1\\AppData\\Local\\Temp\\rust_mozprofile.gUk37wlWRie7"
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+1531912790218	Marionette	INFO	Listening on port 60603
+1531912790383	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+[Parent 7008, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7008, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 163[Parent 7008, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15[GPU 1642
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531912909273	geckodriver	INFO	geckodriver 0.21.0
+1531912909282	geckodriver	INFO	Listening on 127.0.0.1:60953
+1531912912318	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BULKLE~1\\AppData\\Local\\Temp\\rust_mozprofile.wsSw8M3BjWW8"
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+1531912914311	Marionette	INFO	Listening on port 60966
+1531912914448	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+[Parent 1136, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1136, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/i[pc_cChild 10756, hannel_wChrome_ChildThread] WARNIin.cc, line NG: pip346
+e error: 109: fi[Chille z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10756[Parent 1136, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 17012, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531912957204	geckodriver	INFO	geckodriver 0.21.0
+1531912957214	geckodriver	INFO	Listening on 127.0.0.1:61073
+1531912960240	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BULKLE~1\\AppData\\Local\\Temp\\rust_mozprofile.FDLrioaWzh4Z"
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+1531912962326	Marionette	INFO	Listening on port 61088
+1531912962416	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+[Parent 11252, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11252, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3728, [Parent 11252, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 14868, Chrome
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531913021870	geckodriver	INFO	geckodriver 0.21.0
+1531913021880	geckodriver	INFO	Listening on 127.0.0.1:61225
+1531913024913	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BULKLE~1\\AppData\\Local\\Temp\\rust_mozprofile.sCDlzAddhFJw"
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+1531913026965	Marionette	INFO	Listening on port 61239
+1531913027031	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+[Child 11452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1[Parent 1320, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 169*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 17096, Chrome_
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531913095774	geckodriver	INFO	geckodriver 0.21.0
+1531913095789	geckodriver	INFO	Listening on 127.0.0.1:61399
+1531913098819	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BULKLE~1\\AppData\\Local\\Temp\\rust_mozprofile.TYnq5jai7FSu"
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+1531913100842	Marionette	INFO	Listening on port 61412
+1531913100974	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript error: resource://gre/modules/LoginManagerContent.jsm, line 500: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/LoginManagerContent.jsm, line 500: TypeError: can't access dead object
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 554: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 673: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 840: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1164: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1315: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+[Parent 5948, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5948, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12112, Ch[Child 15268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15268, Ch[Parent 5948, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 15996, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531913146896	geckodriver	INFO	geckodriver 0.21.0
+1531913146906	geckodriver	INFO	Listening on 127.0.0.1:61530
+1531913149929	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BULKLE~1\\AppData\\Local\\Temp\\rust_mozprofile.Q9UFUFqb8ZjO"
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+1531913151908	Marionette	INFO	Listening on port 61544
+1531913152082	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript error: resource://gre/modules/LoginManagerContent.jsm, line 500: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/LoginManagerContent.jsm, line 500: TypeError: can't access dead object
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 554: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 673: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 840: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1164: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1315: unreachable code after return statement
+[Parent 16884, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16884, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/com[Child 16096, Chrome_ChildThread] WARNING: pipe error: 109: fmile z:/build/bouild/src/ipc/cn/ihromium/src/chrome/common/ipc_channel_win.cc, line 3p4c_channel_win.cc, line 3466
+
+[Child 1296, Chr[C[Child 11976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 16796, Chrome_Ch1531913217275	geckodriver	INFO	geckodriver 0.21.0
+1531913217285	geckodriver	INFO	Listening on 127.0.0.1:61700
+1531913220320	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BULKLE~1\\AppData\\Local\\Temp\\rust_mozprofile.DoftIwbLP0At"
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+1531913222408	Marionette	INFO	Listening on port 61713
+1531913222444	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+[Child 852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 852, Chr[Child 15364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 153[Parent 12768, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1388*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 2324, Chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531913239695	geckodriver	INFO	geckodriver 0.21.0
+1531913239705	geckodriver	INFO	Listening on 127.0.0.1:61779
+1531913242739	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BULKLE~1\\AppData\\Local\\Temp\\rust_mozprofile.IPiPxGHenfHI"
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+1531913244726	Marionette	INFO	Listening on port 61794
+1531913244877	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript error: resource://gre/modules/LoginManagerContent.jsm, line 500: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/LoginManagerContent.jsm, line 500: TypeError: can't access dead object
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 554: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 673: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 840: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1164: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1315: unreachable code after return statement
+[Parent 12588, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 984, Chr[Parent 12588, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14072*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 14892, 1531913266339	geckodriver	INFO	geckodriver 0.21.0
+1531913266350	geckodriver	INFO	Listening on 127.0.0.1:61865
+1531913269385	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BULKLE~1\\AppData\\Local\\Temp\\rust_mozprofile.QrrDgzq1VEV9"
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+1531913271433	Marionette	INFO	Listening on port 61879
+1531913271576	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+[Child 2756, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2[Parent 16884, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 6360, 1531913286936	geckodriver	INFO	geckodriver 0.21.0
+1531913286946	geckodriver	INFO	Listening on 127.0.0.1:61938
+1531913289970	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BULKLE~1\\AppData\\Local\\Temp\\rust_mozprofile.anUyaszNQa0F"
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+1531913291984	Marionette	INFO	Listening on port 61953
+1531913292126	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+[Parent 17380, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17380, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16936, Chr[Child 12496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12[Parent 17380, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 11820, Chrome_Child1531913315715	geckodriver	INFO	geckodriver 0.21.0
+1531913315725	geckodriver	INFO	Listening on 127.0.0.1:62024
+1531913318757	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BULKLE~1\\AppData\\Local\\Temp\\rust_mozprofile.9W4euWmlx1Cz"
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+1531913320812	Marionette	INFO	Listening on port 62040
+1531913320894	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+[Parent 11924, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11924, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[[Child 14548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child[Parent 11924, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 706*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 9940, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531913338145	geckodriver	INFO	geckodriver 0.21.0
+1531913338155	geckodriver	INFO	Listening on 127.0.0.1:62100
+1531913341189	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BULKLE~1\\AppData\\Local\\Temp\\rust_mozprofile.gyN51HRN5HNO"
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+1531913343150	Marionette	INFO	Listening on port 62113
+1531913343310	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+[Child 1688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_ch[Parent 11592, Gecko_IOThread] WARNING: pipe errora:nnel_win.cc, line 346 
+109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 60[Parent 11592, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 66*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 8804, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531913394092	geckodriver	INFO	geckodriver 0.21.0
+1531913394102	geckodriver	INFO	Listening on 127.0.0.1:62238
+1531913397137	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BULKLE~1\\AppData\\Local\\Temp\\rust_mozprofile.EETFbkDla5Kb"
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+1531913399118	Marionette	INFO	Listening on port 62250
+1531913399268	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+[Child 16252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc[Child 11836, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/, line 346
+src/ipc/chromium/src/ch[rome/common/ipc_channel_win.cc, line 346
+[Child 11836,[Parent 6524, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16088, *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 9324, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531913416001	geckodriver	INFO	geckodriver 0.21.0
+1531913416011	geckodriver	INFO	Listening on 127.0.0.1:62309
+1531913419044	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BULKLE~1\\AppData\\Local\\Temp\\rust_mozprofile.OBRUXqolB9tY"
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+1531913421048	Marionette	INFO	Listening on port 62323
+1531913421194	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+[Parent 16416, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16416, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10264, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/i[pc_channeCl_win.cc, linhild 13088, Chrome_ChildThread] We 346ARNING: pipe 
+error: 109: file z:/[bChiuild/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child [Parent 16416, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 16080, Chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531913630991	geckodriver	INFO	geckodriver 0.21.0
+1531913631001	geckodriver	INFO	Listening on 127.0.0.1:62837
+1531913634039	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BULKLE~1\\AppData\\Local\\Temp\\rust_mozprofile.a9VDMeT7DHVW"
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+1531913636033	Marionette	INFO	Listening on port 62851
+1531913636180	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+[Parent 10260, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10260, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11628, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9868, C[hrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9868, Ch[Parent 10260, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15296, Ch*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 11840, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531913654176	geckodriver	INFO	geckodriver 0.21.0
+1531913654186	geckodriver	INFO	Listening on 127.0.0.1:62916
+1531913657219	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BULKLE~1\\AppData\\Local\\Temp\\rust_mozprofile.I64pMzOd3hiP"
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+1531913659256	Marionette	INFO	Listening on port 62928
+1531913659347	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+[Parent 10832, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10832, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromiu[m/src/chroCme/common/ipc_channel_win.cc, line 346
+hild 15008,[Child 15800 Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15008[Parent 10832, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1616*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 3440, Chrome1531913682941	geckodriver	INFO	geckodriver 0.21.0
+1531913682954	geckodriver	INFO	Listening on 127.0.0.1:63000
+1531913685987	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BULKLE~1\\AppData\\Local\\Temp\\rust_mozprofile.wUT1wp0SArlE"
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+1531913687986	Marionette	INFO	Listening on port 63014
+1531913688124	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+[Parent 15200, Gecko_IOThread] WARNING:[ pipe error: 1Chil09: file z:/bud 410ild/build/src8, Chrome_C/ipc/chromiuhildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+m/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4[Parent 15200, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16300, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16300*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 12976, Chrome_ChildThre
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531913708172	geckodriver	INFO	geckodriver 0.21.0
+1531913708182	geckodriver	INFO	Listening on 127.0.0.1:63082
+1531913711218	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BULKLE~1\\AppData\\Local\\Temp\\rust_mozprofile.prGvOn20HpCW"
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+1531913713267	Marionette	INFO	Listening on port 63095
+1531913713365	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+[Child 3744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chr[ome/common/ipc_channel_win.cc, line 3Child 14980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+46
+[Child 14980, Chrome_ChildThread] WARNING: pipe error: [Parent 7588, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 268
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531913900345	geckodriver	INFO	geckodriver 0.21.0
+1531913900345	geckodriver	INFO	Listening on 127.0.0.1:63671
+1531913903393	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BULKLE~1\\AppData\\Local\\Temp\\rust_mozprofile.8CjI1DHTrrcC"
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+1531913905383	Marionette	INFO	Listening on port 63686
+1531913905561	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript error: resource://gre/modules/LoginManagerContent.jsm, line 500: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/LoginManagerContent.jsm, line 500: TypeError: can't access dead object
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 554: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 673: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 840: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1164: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1315: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+[Parent 15996, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14[Child 16008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16008, [Parent 15996, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 9924,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531913964068	geckodriver	INFO	geckodriver 0.21.0
+1531913964068	geckodriver	INFO	Listening on 127.0.0.1:63832
+1531913967139	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BULKLE~1\\AppData\\Local\\Temp\\rust_mozprofile.AAjvXYc1fymW"
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+1531913969088	Marionette	INFO	Listening on port 63845
+1531913969323	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+[Parent 16424, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1554[Child 1136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1136, C[Parent 16424, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 15168, Chrom1531913985245	geckodriver	INFO	geckodriver 0.21.0
+1531913985245	geckodriver	INFO	Listening on 127.0.0.1:63903
+1531913988315	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BULKLE~1\\AppData\\Local\\Temp\\rust_mozprofile.jAOmgc6Mstgv"
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+1531913990265	Marionette	INFO	Listening on port 63915
+1531913990524	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+[Child 15796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[[Child 15Child 2016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2016, C[Parent 2076, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11984, Chro*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 7580, Ch1531914015606	geckodriver	INFO	geckodriver 0.21.0
+1531914015622	geckodriver	INFO	Listening on 127.0.0.1:63993
+1531914018668	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BULKLE~1\\AppData\\Local\\Temp\\rust_mozprofile.kFs4pi2Q9nhU"
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+1531914020649	Marionette	INFO	Listening on port 64005
+1531914020827	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+[Parent 7012, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7012, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 160[Parent 7012, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 2304, Chrome_Child1531914064570	geckodriver	INFO	geckodriver 0.21.0
+1531914064585	geckodriver	INFO	Listening on 127.0.0.1:64115
+1531914067631	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BULKLE~1\\AppData\\Local\\Temp\\rust_mozprofile.FdFF4ppwKIWY"
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+1531914069576	Marionette	INFO	Listening on port 64130
+1531914069790	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript error: resource://gre/modules/LoginManagerContent.jsm, line 500: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/LoginManagerContent.jsm, line 500: TypeError: can't access dead object
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 554: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 673: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 840: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1164: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1315: unreachable code after return statement
+[Parent 11432, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11432, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16048, Chrome_ChildThr[Parent 11432, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 162*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 12168,1531914276870	geckodriver	INFO	geckodriver 0.21.0
+1531914276886	geckodriver	INFO	Listening on 127.0.0.1:64568
+1531914279942	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BULKLE~1\\AppData\\Local\\Temp\\rust_mozprofile.ji9nz9MpTGeI"
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+1531914281960	Marionette	INFO	Listening on port 64585
+1531914282109	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+[Child 1596, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6076, Chrome_ChildTh[read] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6[Parent 7688, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 2356, Chr1531914312831	geckodriver	INFO	geckodriver 0.21.0
+1531914312831	geckodriver	INFO	Listening on 127.0.0.1:64674
+1531914315865	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BULKLE~1\\AppData\\Local\\Temp\\rust_mozprofile.aUOhwKkpA8Q5"
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+1531914317808	Marionette	INFO	Listening on port 64686
+1531914318049	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+[Parent 14420, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14420, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10040, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10040,[Child 1576, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1576, [Parent 14420, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 17212,1531914350019	geckodriver	INFO	geckodriver 0.21.0
+1531914350035	geckodriver	INFO	Listening on 127.0.0.1:64783
+1531914353078	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BULKLE~1\\AppData\\Local\\Temp\\rust_mozprofile.vDGsVOpZbcYp"
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+1531914355102	Marionette	INFO	Listening on port 64797
+1531914355274	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+[Parent 15808, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10608, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 106[Child 5028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5028, Chro[Child 9324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 932*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 988, Chrome_C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531914439827	geckodriver	INFO	geckodriver 0.21.0
+1531914439843	geckodriver	INFO	Listening on 127.0.0.1:65031
+1531914442909	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BULKLE~1\\AppData\\Local\\Temp\\rust_mozprofile.DoHBeymAxt1H"
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+1531914444960	Marionette	INFO	Listening on port 65048
+1531914445081	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+[Child 17320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12088,[Child 10824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10824*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 15884, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531914493823	geckodriver	INFO	geckodriver 0.21.0
+1531914493823	geckodriver	INFO	Listening on 127.0.0.1:65169
+1531914496899	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BULKLE~1\\AppData\\Local\\Temp\\rust_mozprofile.0eGBe1mptYtc"
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+1531914498827	Marionette	INFO	Listening on port 65183
+1531914499047	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript error: resource://gre/modules/LoginManagerContent.jsm, line 500: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/LoginManagerContent.jsm, line 500: TypeError: can't access dead object
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 554: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 673: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 840: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1164: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1315: unreachable code after return statement
+[Parent 92, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chi[Child 14720, Cld 15976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child [Parent 92, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1852*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 15796, Chro1531914596623	geckodriver	INFO	geckodriver 0.21.0
+1531914596632	geckodriver	INFO	Listening on 127.0.0.1:65400
+1531914599665	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BULKLE~1\\AppData\\Local\\Temp\\rust_mozprofile.UXGY4BTIveX3"
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+1531914601705	Marionette	INFO	Listening on port 65413
+1531914601848	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript error: resource://gre/modules/LoginManagerContent.jsm, line 500: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/LoginManagerContent.jsm, line 500: TypeError: can't access dead object
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 554: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 673: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 840: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1164: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1315: unreachable code after return statement
+[Parent 14996, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11252, Chrome_ChildT[Child 15628, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1[Parent 14996, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 14592, Chrome_1531914614384	geckodriver	INFO	geckodriver 0.21.0
+1531914614394	geckodriver	INFO	Listening on 127.0.0.1:65472
+1531914617430	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BULKLE~1\\AppData\\Local\\Temp\\rust_mozprofile.KJwQA8gGjnq6"
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+1531914619500	Marionette	INFO	Listening on port 65485
+1531914619581	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript error: resource://gre/modules/LoginManagerContent.jsm, line 500: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/LoginManagerContent.jsm, line 500: TypeError: can't access dead object
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 554: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 673: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 840: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1164: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1315: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1164: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1315: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 840: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 673: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 554: unreachable code after return statement
+JavaScript error: chrome://xbl-marquee/content/xbl-marquee.xml, line 520: TypeError: myThis._doMove is not a function
+[Parent 1872, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1872, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line [Child 1346
+0644, Chrome_ChildThread] [Child 7100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chroWme/common/ipc_channel_win.cc, line 346
+ARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10[Parent 1872, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 6548, Chrom1531914720680	geckodriver	INFO	geckodriver 0.21.0
+1531914720689	geckodriver	INFO	Listening on 127.0.0.1:49332
+1531914723717	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BULKLE~1\\AppData\\Local\\Temp\\rust_mozprofile.yP1QHFYs5E1U"
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+1531914725724	Marionette	INFO	Listening on port 49348
+1531914725846	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript error: resource://gre/modules/LoginManagerContent.jsm, line 500: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/LoginManagerContent.jsm, line 500: TypeError: can't access dead object
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 554: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 673: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 840: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1164: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1315: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1164: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1315: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 840: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 673: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+[Parent 15884, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 388[Child 9460, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9460, C[Parent 15884, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 16128, Chrom1531914924412	geckodriver	INFO	geckodriver 0.21.0
+1531914924422	geckodriver	INFO	Listening on 127.0.0.1:49780
+1531914927472	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BULKLE~1\\AppData\\Local\\Temp\\rust_mozprofile.pCnBtEyWNjBL"
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+1531914929502	Marionette	INFO	Listening on port 49793
+1531914929606	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript error: resource://gre/modules/LoginManagerContent.jsm, line 500: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/LoginManagerContent.jsm, line 500: TypeError: can't access dead object
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 554: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 673: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 840: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1164: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1315: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1164: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1315: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 840: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 673: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+[Child 15952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15952, [Child 12772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12772, C[Parent 15604, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 12132, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531915250972	geckodriver	INFO	geckodriver 0.21.0
+1531915250983	geckodriver	INFO	Listening on 127.0.0.1:50464
+1531915254009	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BULKLE~1\\AppData\\Local\\Temp\\rust_mozprofile.E3lsGIJCcsNv"
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+1531915256089	Marionette	INFO	Listening on port 50480
+1531915256200	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript error: resource://gre/modules/LoginManagerContent.jsm, line 500: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/LoginManagerContent.jsm, line 500: TypeError: can't access dead object
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 554: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 673: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 840: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1164: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1315: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1164: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1315: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 840: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 673: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript error: chrome://xbl-marquee/content/xbl-marquee.xml, line 520: TypeError: myThis._doMove is not a function
+[Child 17388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ip[Chicld 11156, Chrome_ChildThread] WARNING: pi_pe error: 109: filechannel_win.cc, line 346
+ z:/build/build/src/i[Chipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11[Parent 5144, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1441*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 15304, Chrom1531915290038	geckodriver	INFO	geckodriver 0.21.0
+1531915290048	geckodriver	INFO	Listening on 127.0.0.1:50577
+1531915293074	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BULKLE~1\\AppData\\Local\\Temp\\rust_mozprofile.sasITzeclHhw"
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+1531915295180	Marionette	INFO	Listening on port 50590
+1531915295221	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript error: resource://gre/modules/LoginManagerContent.jsm, line 500: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/LoginManagerContent.jsm, line 500: TypeError: can't access dead object
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 554: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 673: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 840: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1164: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1315: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1164: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1315: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 840: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 673: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript error: chrome://xbl-marquee/content/xbl-marquee.xml, line 520: TypeError: myThis._doMove is not a function
+JavaScript error: chrome://xbl-marquee/content/xbl-marquee.xml, line 520: TypeError: myThis._doMove is not a function
+[Parent 16068, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16068, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15736, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/[common/ipc_channel_win.cc, liChild 4232,ne 346
+ Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4232, [Parent 16068, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 988, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531915367926	geckodriver	INFO	geckodriver 0.21.0
+1531915367936	geckodriver	INFO	Listening on 127.0.0.1:50759
+1531915370970	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BULKLE~1\\AppData\\Local\\Temp\\rust_mozprofile.6vPUbT8PlLAU"
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+1531915373232	Marionette	INFO	Listening on port 50773
+1531915373684	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript error: resource://gre/modules/LoginManagerContent.jsm, line 500: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/LoginManagerContent.jsm, line 500: TypeError: can't access dead object
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 554: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 673: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 840: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1164: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1315: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1164: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1315: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 840: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 673: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+[Child 15364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10440, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6980, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1[GPU 1060
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x4B0004,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
+h
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+1531915500102	Marionette	INFO	Listening on port 51063
+1531915500145	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript error: resource://gre/modules/LoginManagerContent.jsm, line 500: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/LoginManagerContent.jsm, line 500: TypeError: can't access dead object
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 554: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 673: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 840: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1164: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1315: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1164: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1315: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 840: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 673: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+[Parent 8036, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8036, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20[Child 15100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15100, C[Parent 8036, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child[GPU 92, Chrome_Chil
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+g: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript error: resource://gre/modules/LoginManagerContent.jsm, line 500: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/LoginManagerContent.jsm, line 500: TypeError: can't access dead object
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 554: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 673: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 840: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1164: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1315: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1164: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1315: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 840: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 673: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+[Parent 14584, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14584, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5640, Chrome_ChildThre[Child 15324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14584, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.c*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 7516, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531916340784	geckodriver	INFO	geckodriver 0.21.0
+1531916340784	geckodriver	INFO	Listening on 127.0.0.1:52832
+1531916343866	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BULKLE~1\\AppData\\Local\\Temp\\rust_mozprofile.WkM4Ncn1POJe"
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+1531916345882	Marionette	INFO	Listening on port 52845
+1531916346044	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript error: resource://gre/modules/LoginManagerContent.jsm, line 500: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/LoginManagerContent.jsm, line 500: TypeError: can't access dead object
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 554: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 673: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 840: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1164: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1315: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1164: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1315: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 840: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 673: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+[Child 12680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12680, [Child 2728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2[Parent 12976, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 10624, Chrome_Ch1531916941148	geckodriver	INFO	geckodriver 0.21.0
+1531916941163	geckodriver	INFO	Listening on 127.0.0.1:54068
+1531916944257	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BULKLE~1\\AppData\\Local\\Temp\\rust_mozprofile.4SuoJcVfnjIV"
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+1531916946291	Marionette	INFO	Listening on port 54082
+1531916946418	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript error: resource://gre/modules/LoginManagerContent.jsm, line 500: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/LoginManagerContent.jsm, line 500: TypeError: can't access dead object
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 554: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 673: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 840: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1164: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1315: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1164: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1315: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 840: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 673: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+[Parent 10252, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11424, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11[Parent 10252, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 10396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+1531916988218	Marionette	INFO	Listening on port 54198
+1531916988276	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript error: resource://gre/modules/LoginManagerContent.jsm, line 500: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/LoginManagerContent.jsm, line 500: TypeError: can't access dead object
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 554: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 673: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 840: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1164: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1315: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1164: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1315: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 840: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 673: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+[Parent 16592, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16592, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11924, Chrome_Chi[Parent 16592, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 11860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/i
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ will be ignored for this session
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 554: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 673: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 840: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1164: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1315: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1164: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1315: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 840: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 673: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+[Parent 15884, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9480,[Child 14852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14852, Chro[Parent 15884, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9900,[GPU 15672
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ failure)
+
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bulkleaders\AppData\Local\openvr\openvrpaths.vrpath
+1531917931599	Marionette	INFO	Listening on port 56158
+1531917931700	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+JavaScript error: resource://gre/modules/LoginManagerContent.jsm, line 500: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/LoginManagerContent.jsm, line 500: TypeError: can't access dead object
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 554: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 673: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 840: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1164: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1315: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1164: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 1315: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 840: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw_210618.js, line 673: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 526: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 646: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 813: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1137: unreachable code after return statement
+JavaScript warning: https://sistema.ssw.inf.br/scripts/ssw.js?v=21.06.18, line 1288: unreachable code after return statement
+[Parent 10876, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10876, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1640[Parent 10876, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 171[GPU 15100, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
