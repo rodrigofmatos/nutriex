@@ -1,0 +1,1 @@
+python f:\bot\dbartia\dbartia.py
